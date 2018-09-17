@@ -1,0 +1,15 @@
+<html>
+<head>
+  <title>Dog 3</title>
+</head>
+<body>
+  <h1>Bulldog</h1>
+  <p>The Bulldog, also known as the English Bulldog or British Bulldog, is a medium-sized breed of dog.</p>
+<ul>
+    <li>It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose.</li>
+    <li>Bulldogs were the fourth most popular purebred in the US in 2016 according to the American Kennel Club.</li>
+    <li>Bulldogs have characteristically wide heads and shoulders along with a pronounced mandibular prognathism.</li>
+  </ul>
+  <p>There are generally thick folds of skin on the brow; round, black, wide-set eyes; a short muzzle with characteristic folds called a rope or nose roll above the nose; hanging skin under the neck; drooping lips and pointed teeth, and an underbite with an upturned jaw.</p>
+</body>
+</html>

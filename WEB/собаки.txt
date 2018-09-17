@@ -1,0 +1,56 @@
+<html>
+<head>
+ <title>Domestic animals</title>
+</head>
+ <body bgcolor="d5713f">
+ <table border="1" bordercolor="#FFD700" width="800" align="center"> 
+ <tr> 
+<td bgcolor="#FFD700"> 
+
+<table border="1" bordercolor="#FFD700" width="790" height="200"
+ cellpadding="10"> 
+<tr> 
+<h1><font color="#000000">
+Domestic animals</font> 
+<h3 align="left"> 
+<font color="#000000"><font size=+2>Dogs</font></font> 
+</h3> 
+</h1> 
+</th> 
+</tr> 
+</table>  
+
+<table border="1" bordercolor="#FFD700" width="790" cellpadding="10"> 
+<p>The term "domestic dog" is generally used for both domesticated and feral varieties. The English word dog comes from Middle English dogge, from Old English docga, a "powerful dog breed". The term may derive from Proto-Germanic *dukkon, represented in Old English finger-docce ("finger-muscle") or (as suggested by Piotr Gasiorowski) the Old English colour adjective dox, meaning "brown" or "tan". In either case, the word seems to have been derived via the diminutive suffix -ga also seen in frogga "frog", picga "pig", stagga "stag", wicga "beetle, worm", among others.</p>
+<tr> 
+<td rowspan="3" width="600" bgcolor="#FFD700"> 
+<h3 align="center">Info</h3> 
+<p>The domestic dog (Canis lupus familiaris when considered a subspecies of the wolf or Canis familiaris when considered a distinct species) is a member of the genus Canis (canines), which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore.</p>
+<p>The dog and the extant gray wolf are sister taxa as modern wolves are not closely related to the wolves that were first domesticated, which implies that the direct ancestor of the dog is extinct.</p>
+<p>The dog was the first species to be domesticated and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.</p> 
+</td> 
+
+<td bgcolor="#FFD700" align="left"> 
+<h3>Taxonomy</h3> 
+<p><a href="file:///C:/Users/Виталий/Desktop/WEB/овчарка.html"> <img src="file:///C:/Users/Виталий/Desktop/WEB/shepherd.jpg"> </a>
+Shepherds</p> 
+<p><a href="file:///C:/Users/Виталий/Desktop/WEB/спаниель.html"> <img src="file:///C:/Users/Виталий/Desktop/WEB/spaniel.jpg"> </a>
+Spaniel</p> 
+<p><a href="file:///C:/Users/Виталий/Desktop/WEB/бульдог.html"> <img src="file:///C:/Users/Виталий/Desktop/WEB/bulldog.jpg"> </a>
+Bulldog</p> 
+<p><a href="file:///C:/Users/Виталий/Desktop/WEB/мопс.html"> <img src="file:///C:/Users/Виталий/Desktop/WEB/pug.jpg"> </a> <br>
+Pug</p> 
+</td> 
+</tr> 
+<tr> 
+<td bgcolor="#FFD700" align="center"> 
+<h2>More</h2> 
+<p align="left">Site was created by Sotnikov Vitalij.</p> 
+</td> 
+</td> 
+</tr> 
+</tr> 
+</table> 
+</table> 
+</body> 
+</html>
